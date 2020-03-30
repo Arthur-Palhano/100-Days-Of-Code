@@ -9,5 +9,6 @@
  
  <ol>
  <li>Create a program that checks if a number is a Spy Number</li>
+ <li>Create a program that checks if a number is a Perfect Number</li>
  </ol>
  
