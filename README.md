@@ -10,5 +10,6 @@
  <ol>
  <li>Create a program that checks if a number is a Spy Number</li>
  <li>Create a program that checks if a number is a Perfect Number</li>
+ <li>Create a program that organizes a sentence in alphabetical order</li>
  </ol>
  
