@@ -1,4 +1,4 @@
-<h1>100DaysOfCode</h1>
+<h1>100 Days Of Code</h1>
  <h3>A challenge that consists of code a simple program for 100 consecutive days, but that serves as learning for a language.</h3>
  
  <h4>To see the codes just go to the folder #100DaysOfCode</h5>
