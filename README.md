@@ -12,5 +12,6 @@
  <li>Create a program that checks if a number is a Perfect Number</li>
  <li>Create a program that organizes a sentence in alphabetical order</li>
  <li>Create a program that checks for a repeated term in a sentence, if yes remove it</li>
+ <li>Create a program that shows the most repeated term in a sentence</li>
  </ol>
  
