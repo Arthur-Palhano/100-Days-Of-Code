@@ -14,5 +14,6 @@
  <li>Create a program that checks for a repeated term in a sentence, if yes remove it</li>
  <li>Create a program that shows the most repeated term in a sentence</li>
  <li>Create a program that find the number of 1's in the binary of any integer.</li>
+ <li>Create a matrix calculator</li>
  </ol>
  
