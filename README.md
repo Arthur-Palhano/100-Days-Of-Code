@@ -15,5 +15,6 @@
  <li>Create a program that shows the most repeated term in a sentence</li>
  <li>Create a program that find the number of 1's in the binary of any integer.</li>
  <li>Create a matrix calculator</li>
+ <li>Create a program to convert string from camleCase into snake_case or vice versa.</li>
  </ol>
  
